@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Kazarnowicz]]></title>
+        <description><![CDATA[Kazarnowicz]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 03 Dec 2015 20:26:10 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Boom in Sweden's digital sharing economy]]></title>
+            <description><![CDATA[<article><h1>Boom in Sweden's digital sharing economy</h1><p>Following the success of apartment and car sharing websites such as Airbnb, Lägenhetsbyte and Uber, a music studio swapping business is the latest company to enter the market in tech savvy Sweden.</p><img src="http://www.thelocal.se/userdata/images/article/30e556fc5c72ba7424d2ad5b4bcff87f1f641ed3fd6df5fa9b9c00e80286dedf.jpg"></article>]]></description>
+            <link>http://www.thelocal.se/20150414/boom-in-swedens-digital-sharing-economy</link>
+            <guid isPermaLink="false">66f6acdb-7b12-4c5f-9c8d-b547549ef2da</guid>
+            <pubDate>Thu, 03 Dec 2015 20:26:10 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
