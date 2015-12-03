@@ -2,39 +2,28 @@
 author: []
 related: []
 publisher:
-  url: 'https://medium.com'
-  name: Medium
-  favicon: 'https://cdn-static-1.medium.com/_/fp/icons/favicon-new.TAS6uQ-Y7kcKgi0xjcYHXw.ico'
-  domain: medium.com
+  url: 'http://www.outtraveler.com'
+  name: Out Magazine
+  favicon: 'http://www.outtraveler.com/sites/outtraveler.com/themes/outtraveler/favicon.ico'
+  domain: www.outtraveler.com
 keywords:
-  - unstraight
-  - interface
-  - cyborg-ism
-  - kleargear
-  - wearables
-  - movie
-  - infographics
-  - overloaded
-  - archaic
-  - futuristic
-description: 'I write about: Digital media, PR, Customer experience as marketing, Wearables, Conscious homes, Cyborg-ism, LGBT issues.'
+  - gay
+  - stockholm
+  - podcasts
+  - kazarnowicz
+  - rten
+  - gministeriet
+  - hornstull
+  - larpaviljongen
+  - listen
+  - sweden
+description: "King of the gay podcasts, Michael Kazarnowicz on Stockholm Michael Kazarnowicz (far right, above) runs Sweden's largest gay podcast, Bögministeriet ( Ministry of Queers), with a group of good friends. Besides analyzing a host of LGBT issues, the show features inter-views with esteemed celebrities (like Edmund White and Jake Shears), in addition to discussing everything new and cool in Stockholm."
 inLanguage: en
-app_links:
-  - type: android
-    app_name: Medium
-    app_store_id: '828256236'
-    package: com.medium.reader
-  - url: 'medium:/@kazarnowicz'
-    type: ios
-    app_name: Medium
-  - url: 'medium://@kazarnowicz'
-    type: android
-  - url: 'https://medium.com/@kazarnowicz'
-    type: web
-isBasedOnUrl: 'https://medium.com/@kazarnowicz'
+app_links: []
+isBasedOnUrl: 'http://www.outtraveler.com/gay-europe/stockholm/2015/07/17/michael-kazarnowicz'
 title: Michael Kazarnowicz
-datePublished: '2015-12-03T14:45:22.786Z'
-dateModified: '2015-12-03T14:44:47.624Z'
+datePublished: '2015-12-03T20:26:10.172Z'
+dateModified: '2015-12-03T20:00:29.558Z'
 sourcePath: _posts/2015-12-03-michael-kazarnowicz.md
 published: true
 inFeed: true
@@ -44,4 +33,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Michael Kazarnowicz</h1><p>I write about&amp;colon; Digital media&amp;comma; PR&amp;comma; Customer experience as marketing&amp;comma; Wearables&amp;comma; Conscious homes&amp;comma; Cyborg-ism&amp;comma; LGBT issues&amp;period;</p><img src="https://cdn-images-1.medium.com/max/800/0*rBWQe71BRSo-s_u3.jpeg" /></article>
+<article style=""><h1>Michael Kazarnowicz</h1><p>King of the gay podcasts&amp;comma; Michael Kazarnowicz on Stockholm Michael Kazarnowicz &amp;lpar;far right&amp;comma; above&amp;rpar; runs Sweden's largest gay podcast&amp;comma; Bögministeriet &amp;lpar; Ministry of Queers&amp;rpar;&amp;comma; with a group of good friends&amp;period; Besides analyzing a host of LGBT issues&amp;comma; the show features inter-views with esteemed celebrities &amp;lpar;like Edmund White and Jake Shears&amp;rpar;&amp;comma; in addition to discussing everything new and cool in Stockholm&amp;period;</p><img src="http://www.outtraveler.com/sites/outtraveler.com/files/Michael-Kazarnowiczx633_0.jpg" /></article>
