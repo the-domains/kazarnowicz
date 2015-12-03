@@ -1,0 +1,28 @@
+name: Kazarnowicz
+favicon: null
+layout_spectrum: 0.5827310485765338
+typography_spectrum: 0.14504535729065537
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.3832065958995372
+  lightness: 0.1438459379132837
+  saturation: 0.579301146324724
+  rhythmicContrast: 0.5876742016989738
+purpose: []
