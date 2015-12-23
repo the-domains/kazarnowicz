@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[My digital scrapbook]]></title>
         <description><![CDATA[My digital scrapbook]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/kazarnowicz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 23 Dec 2015 11:06:30 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 23 Dec 2015 11:06:53 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/kazarnowicz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Propaganda Games: Sesame Credit - The True Danger of Gamification - Extra Credits]]></title>
+            <description><![CDATA[<article><h1>Propaganda Games: Sesame Credit - The True Danger of Gamification - Extra Credits</h1><p>This is a good overview of the dangers of a gamified citizen score system (even if there are some factual errors about Sesame)</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/eecfe71bc053f4c85e5195547c4df95860602332.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=lHcTKWiZ8sI&amp;feature=youtu.be</link>
+            <guid isPermaLink="false">ef8924eb-7967-4f12-bbc8-f8de95e54fd2</guid>
+            <pubDate>Wed, 23 Dec 2015 11:06:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[China 'social credit': Beijing sets up huge system - BBC News]]></title>
             <description><![CDATA[<article><h1>China 'social credit': Beijing sets up huge system - BBC News</h1><p>In most countries, the existence of a credit system isn't controversial. Past financial information is used to predict whether individuals will pay their mortgages or credit card bill in the future. But China is taking the whole concept a few steps further.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7158b098a683c568ea5d63a34a3bf0d7ada1cbed.jpg"></article>]]></description>
