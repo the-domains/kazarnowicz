@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[My digital scrapbook]]></title>
-        <description><![CDATA[My digital scrapbook]]></description>
+        <title><![CDATA[A test of using The Grid for curating content]]></title>
+        <description><![CDATA[A test of using The Grid for curating content]]></description>
         <link>https://thegrid.ai/kazarnowicz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 23 Dec 2015 15:02:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jan 2016 08:28:27 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kazarnowicz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[How to Hire - Startups, Wanderlust, and Life Hacking]]></title>
+            <description><![CDATA[<article><h1>How to Hire - Startups, Wanderlust, and Life Hacking</h1><p>How to Hire - Startups, Wanderlust, and Life Hacking - Medium</p></article>]]></description>
+            <link>https://medium.com/swlh/how-to-hire-34f4ded5f176#.30xxkddd3</link>
+            <guid isPermaLink="false">5bdf5607-a4ce-4693-84eb-ebee86a8366b</guid>
+            <pubDate>Mon, 04 Jan 2016 08:27:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Burglars Just Want Tacos | Restaurant Trolls Burglars]]></title>
             <description><![CDATA[<article><h1>Burglars Just Want Tacos | Restaurant Trolls Burglars</h1><p>These nice gentlemen came looking for tacos...we think. Please call 702-385-5555 - LVMPD Crime Stoppers - with any information or tips related to this crime. Burglary occurred at 3:33 AM on Wednesday, December 16, 2015 at 7000 W. Charleston Blvd. in Las Vegas, NV.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d48e9e1b44b3ab7ccf985777bb838eabcecdce53.jpg"></article>]]></description>
